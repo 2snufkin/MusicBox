@@ -1,0 +1,14 @@
+1. Using the JavaSound API
+2. Build Swing UI
+3. Connect to another machine
+4. I/O to send to another machine
+
+class Guide
+MiniMiniCmdLine: an small app that run from the cmd. receive 2 args (instrulent and note)
+
+Mixing GUI and Music
+everytime that the is an note on midi event, a shape will be draw
+1. Making a lot of midi event (loop)
+2.Register listners for the events
+3.Start playing
+4. Everytime the is a bit on we draw a shape:
